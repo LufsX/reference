@@ -418,6 +418,7 @@ Quick Reference
 [贡献者](https://github.com/jaywcjlove/reference/graphs/contributors)列表，由 [contributors](https://github.com/jaywcjlove/github-action-contributors) 根据提交次数的先后顺序自动生成
 <!--rehype:style=padding-top:1rem;-->
 
+<!--rehype:ignore:start-->
 ## 国内镜像网站
 <!--rehype:wrap-style=text-align: center;max-width: 650px;margin: 0 auto;&class=home-title-reset-->
 
@@ -520,8 +521,6 @@ Quick Reference
 如果你有资源，可以很方便[部署 web 版](https://github.com/jaywcjlove/reference/issues/102#issue-1451649637)，这非常简单，只需要克隆 [gh-pages](https://github.com/jaywcjlove/reference/tree/gh-pages) 分支代码到你的静态服务就可以了，还可以使用 [docker](https://hub.docker.com/r/wcjiang/reference) 快捷部署 web 版。
 
 
-
-<!--rehype:ignore:start-->
 ## License
 
 MIT © [Kenny Wong](https://github.com/jaywcjlove)
