@@ -452,9 +452,9 @@ Quick Reference
 <a href="https://github.com/QDelta" title="QDelta"><img src="https://avatars.githubusercontent.com/u/60222316?v=4" width="42;" alt="QDelta"/></a>
 <a href="https://github.com/sevenleave" title="Poirot Hercule"><img src="https://avatars.githubusercontent.com/u/24411140?v=4" width="42;" alt="Poirot Hercule"/></a>
 <a href="https://github.com/PipecraftNet" title="Pipecraft"><img src="https://avatars.githubusercontent.com/u/88728670?v=4" width="42;" alt="Pipecraft"/></a>
-<a href="https://github.com/Perzch" title="赵纯焕"><img src="https://avatars.githubusercontent.com/u/67987641?v=4" width="42;" alt="赵纯焕"/></a>
+<a href="https://github.com/Perzch" title="ZhaoChunhuan"><img src="https://avatars.githubusercontent.com/u/67987641?v=4" width="42;" alt="ZhaoChunhuan"/></a>
 <a href="https://github.com/PILIHU2022" title="PILIHU2022"><img src="https://avatars.githubusercontent.com/u/100511118?v=4" width="42;" alt="PILIHU2022"/></a>
-<a href="https://github.com/HanaNoryu" title="Noryu"><img src="https://avatars.githubusercontent.com/u/109856546?v=4" width="42;" alt="Noryu"/></a>
+<a href="https://github.com/Noryu-01" title="Noryu"><img src="https://avatars.githubusercontent.com/u/109856546?v=4" width="42;" alt="Noryu"/></a>
 <a href="https://github.com/NianwenDan" title="NianwenDan"><img src="https://avatars.githubusercontent.com/u/74407127?v=4" width="42;" alt="NianwenDan"/></a>
 <a href="https://github.com/mo3et" title="Monet Lee"><img src="https://avatars.githubusercontent.com/u/34803812?v=4" width="42;" alt="Monet Lee"/></a>
 <a href="https://github.com/Moeyuuko" title="Moeyuuko"><img src="https://avatars.githubusercontent.com/u/14266681?v=4" width="42;" alt="Moeyuuko"/></a>
