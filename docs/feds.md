@@ -59,7 +59,7 @@ JavaScript 工具
 [JSDoc](https://jsdoc.app/)<!--rehype:target=_blank&style=background: rgb(197 149 199/var(\-\-bg\-opacity));-->
 [UglifyJS](http://lisperator.net/uglifyjs/transform)<!--rehype:target=_blank&style=background: rgb(106 106 106/var(\-\-bg\-opacity));-->
 [Prettier](https://prettier.io/)<!--rehype:target=_blank&style=background: rgb(197 149 199/var(\-\-bg\-opacity));-->
-[Biome - JS 语言格式化](https://prettier.io/)<!--rehype:target=_blank&style=background: rgb(96 165 250/var(\-\-bg\-opacity));&class=contributing tag&data-lang=格式化-->
+[Biome - JS 语言格式化](https://biomejs.dev/)<!--rehype:target=_blank&style=background: rgb(96 165 250/var(\-\-bg\-opacity));&class=contributing tag&data-lang=格式化-->
 <!--rehype:class=home-card-->
 
 JavaScript 测试工具
@@ -82,7 +82,6 @@ CSS 工具
 [ColorZilla](http://www.colorzilla.com/gradient-editor/)<!--rehype:target=_blank&style=background: rgb(106 106 106/var(\-\-bg\-opacity));-->
 [CSS Protips](https://github.com/AllThingsSmitty/css-protips)<!--rehype:target=_blank&style=background: rgb(106 106 106/var(\-\-bg\-opacity));-->
 [CSS3 Maker](http://www.css3maker.com/)<!--rehype:target=_blank&style=background: rgb(106 106 106/var(\-\-bg\-opacity));-->
-[cssnano](http://cssnano.co/)<!--rehype:target=_blank&style=background: rgb(106 106 106/var(\-\-bg\-opacity));-->
 [CSSPIN](https://webkul.github.io/csspin/)<!--rehype:target=_blank&style=background: rgb(106 106 106/var(\-\-bg\-opacity));-->
 [CSSreference](https://cssreference.io/)<!--rehype:target=_blank&style=background: rgb(106 106 106/var(\-\-bg\-opacity));-->
 [CSSTree](https://github.com/csstree/csstree)<!--rehype:target=_blank&style=background: rgb(106 106 106/var(\-\-bg\-opacity));-->
